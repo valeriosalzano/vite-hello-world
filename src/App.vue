@@ -5,7 +5,7 @@
 
     components : {
       MainHeading,
-      BonusJumbotron
+      BonusJumbotron,
     }
   }
 </script>
